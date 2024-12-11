@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="GloboNordeste" tvg-name="Globo Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Globo_2021_logo.svg/1200px-Globo_2021_logo.svg.png",Globo Nordeste
+https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
+https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Band_Verde.png/800px-Logo_Band_Verde.png",Band
+https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Telecine_Premium_logo_2018.svg/1200px-Telecine_Premium_logo_2018.svg.png",Telecine Premium
+https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="Telecine Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telecine_Action_logo_2018.svg/1200px-Telecine_Action_logo_2018.svg.png",Telecine Action
+https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cinemax_2016.svg/1200px-Cinemax_2016.svg.png",Cinemax
+https://abc.embedmax.site/cinemax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Space_Latin_America_logo.svg/1280px-Space_Latin_America_logo.svg.png",Space
+https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Star_Channel_logo.svg/1200px-Star_Channel_logo.svg.png",Star Channel
+https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Warner_TV_Latin_America_Logo.svg/1200px-Warner_TV_Latin_America_Logo.svg.png",Warner
+https://abc.embedmax.site/warnertv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png",A&E
+https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GloboNews_2017.svg/1200px-GloboNews_2017.svg.png",Globo News
+https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JPNews" tvg-name="JP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jovem_Pan_News.svg/1200px-Jovem_Pan_News.svg.png",JP News
+https://abc.embedmax.site/jovempannews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Universal_Channel_logo.svg/1200px-Universal_Channel_logo.svg.png",Studio Universal
+https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",TNT
+https://abc.embedmax.site/tnt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Megapix_logo_2014.svg/1200px-Megapix_logo_2014.svg.png",Megapix
+https://abc.embedmax.site/megapix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/FX_Channel_Logo.svg/1200px-FX_Channel_Logo.svg.png",FX
+https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
