@@ -6,7 +6,7 @@ https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kMgasWanmjnO8utkNFRc866ne2lKR3YA0dmWbPZ7oivAU=s900-c-k-c0x00ffffff-no-rj",AXN
 https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="imgs-thumbs/assistir band ao vivo.webp",Band
+#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://tm.ibxk.com.br/2021/09/22/22110536913129.jpg?ims=704x264",Band
 https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir canal off ao vivo.webp",Canal Off
