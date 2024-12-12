@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",A&E
 https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://banner2.cleanpng.com/20180702/hsi/kisspng-axn-television-channel-sony-channel-television-sho-axn-5b3a0ac3c59ea7.0065430515305304998095.jpg",Band
 https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
