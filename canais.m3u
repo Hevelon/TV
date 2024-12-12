@@ -33,6 +33,8 @@ https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",E!
 https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
 
+
+
 #EXTINF:-1,HBO
 https://abc.embedmax.site/hbo/tracks-v1a1/mono.m3u8
 
@@ -99,4 +101,35 @@ https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarChannel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Star_Channel_logo.svg/1200px-Star_Channel_logo.svg.png",Star Channel
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb
+#EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb,Studio Universal
+https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, MULTISHOW
+https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",SPORTV3
+https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",SPORTV2
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 6
+https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 5
+https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 4
+https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3
+https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2
+https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 
+https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
+
+#EXTM3U:-1,SBT
+https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
