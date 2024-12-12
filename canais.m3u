@@ -131,3 +131,10 @@ https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 
 #EXTM3U:-1,SBT
 https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Telecine_Premium_logo_2018.svg/1200px-Telecine_Premium_logo_2018.svg.png",Telecine Premium
+https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TelecineAction" tvg-name="Telecine Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telecine_Action_logo_2018.svg/1200px-Telecine_Action_logo_2018.svg.png",Telecine Action
+https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
+
