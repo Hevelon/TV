@@ -60,16 +60,16 @@ https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Globo News
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,JP News
+#EXTINF:-1,JPNEWS
 https://abc.embedmax.site/jovempannews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Megapix
 https://abc.embedmax.site/megapix/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",MULTISHOW
+#EXTINF:-1,MultiShow
 https://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1,Nick Jr
 https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Paramount Mais 1
@@ -81,58 +81,58 @@ https://abc.embedmax.site/paramountmais2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Paramount Mais 3
 https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE1" tvg-name="PREMIERE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",PREMIERE1
+#EXTINF:-1,PREMIERE1
 https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE2" tvg-name="PREMIERE2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",PREMIERE2
+#EXTINF:-1,PREMIERE2
 https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="PREMIERE4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",PREMIERE4
+#EXTINF:-1,PREMIERE4
 https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rede_TV%21_logo.svg/2560px-Rede_TV%21_logo.svg.png",Rede TV Ao Vivo
+#EXTINF:-1,Rede TV
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Space_Latin_America_logo.svg/1280px-Space_Latin_America_logo.svg.png",Space
+#EXTINF:-1,SPACE
 https://abc.embedmax.site/space/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="StarChannel" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Star_Channel_logo.svg/1200px-Star_Channel_logo.svg.png",Star Channel
+#EXTINF:-1,Star Cannel
 https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb,Studio Universal
 https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",SPORTV3
+#EXTINF:-1,SPORTV3
 https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",SPORTV2
+#EXTINF:-1,SPORTV2
 https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 6
+#EXTINF:-1,ESPN6
 https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 5
+#EXTINF:-1,ESPN5
 https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 4
+#EXTINF:-1,ESPN4
 https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 3
+#EXTINF:-1,ESPN3
 https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 2
+#EXTINF:-1,ESPN2
 https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 
+#EXTINF:-1,ESPN1
 https://abc.embedmax.site/espn1/tracks-v1a1/mono.m3u8
 
-#EXTM3U:-1,SBT
+#EXTINF:-1,SBT
 https://abc.embedmax.site/sbt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TelecinePremium" tvg-name="Telecine Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Telecine_Premium_logo_2018.svg/1200px-Telecine_Premium_logo_2018.svg.png",Telecine Premium
+#EXTINF:-1,Telecine Premioum
 https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TelecineAction" tvg-name="Telecine Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telecine_Action_logo_2018.svg/1200px-Telecine_Action_logo_2018.svg.png",Telecine Action
+#EXTINF:-1,Telecine Action
 https://abc.embedmax.site/tcaction/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Telecine Pipoca
