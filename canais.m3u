@@ -102,9 +102,6 @@ https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb,Studio Universal
 https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, MULTISHOW
-https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="ESPN" tvg-name="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",SPORTV3
 https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 
