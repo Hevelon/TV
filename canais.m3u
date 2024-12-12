@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",A&E
 https://abc.embedmax.site/ae/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kMgasWanmjnO8utkNFRc866ne2lKR3YA0dmWbPZ7oivAU=s900-c-k-c0x00ffffff-no-rj",AXN
+#EXTINF:-1,AXN
 https://abc.embedmax.site/axn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
@@ -12,7 +12,7 @@ https://abc.embedmax.site/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir canal off ao vivo.webp",Canal Off
 https://abc.embedmax.site/canaloff/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Caze TV 1" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir cazetv ao vivo.webp",Caze TV 1
+#EXTINF:-1,OFF
 https://abc.embedmax.site/cazetv1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Caze TV 1" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir cazetv ao vivo.webp",Caze TV 1
@@ -30,7 +30,7 @@ https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery Kids
 https://abc.embedmax.site/discoverykids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",E!
+#EXTINF:-1,E!
 https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,HBO
@@ -51,19 +51,19 @@ https://abc.embedmax.site/hbosignature/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HBO Xtreme
 https://abc.embedmax.site/hboxtreme/video.m3u8
 
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/FX_Channel_Logo.svg/1200px-FX_Channel_Logo.svg.png",FX
+#EXTINF:-1,FX
 https://abc.embedmax.site/fx/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GloboNordeste" tvg-name="Globo Nordeste" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Globo_2021_logo.svg/1200px-Globo_2021_logo.svg.png",Globo Nordeste
+#EXTINF:-1,Globo Nordeste
 https://abc.embedmax.site/globonordeste/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GloboNews" tvg-name="Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GloboNews_2017.svg/1200px-GloboNews_2017.svg.png",Globo News
+#EXTINF:-1,Globo News
 https://abc.embedmax.site/globonews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="JPNews" tvg-name="JP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jovem_Pan_News.svg/1200px-Jovem_Pan_News.svg.png",JP News
+#EXTINF:-1,JP News
 https://abc.embedmax.site/jovempannews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Megapix_logo_2014.svg/1200px-Megapix_logo_2014.svg.png",Megapix
+#EXTINF:-1,Megapix
 https://abc.embedmax.site/megapix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ESPN_wordmark.svg/1280px-ESPsN_wordmark.svg.png",MULTISHOW
