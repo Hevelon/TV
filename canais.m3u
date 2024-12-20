@@ -15,9 +15,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 #EXTINF:-1,TNT
 https://stream.m3u8.one/tnt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,SyFy
-https://ddh2.iosplayer.ru/tshttp/ddh2/premium373/mono.m3u8?token=none
-
 #EXTINF:-1,SBT Bahia
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
@@ -25,15 +22,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1498325921.m3u8
 
 #EXTINF:-1,CombaTV Ao Vivo
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
-
-#EXTINF:-1,Cinemax
-https://m3u8.vg/a1x3/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=aEey3mt-H1aKPj7cMLzE4g&3U1G7qaTxrPbalZnEx=1734717260&sv=99
-
-#EXTINF:-1,A&E
-https://m3u8.vg/a1x4/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=UNP6mDXvEaO1nHUpTHMuJA&3U1G7qaTxrPbalZnEx=1734717345&sv=58
-
-#EXTINF:-1,FX
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE CINE ACTION"  group-title="Filmes",TELE CINE ACTION
@@ -59,5 +47,41 @@ http://tv.amplista.com/live/gamaliel/2019/37255.ts
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Sports",SPORTV 2
 http://tv.amplista.com/live/gamaliel/2019/36943.ts
+
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD [ALT]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",Cinemax HD [ALT]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/50669.ts
+
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Variedades",E! H265
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/62871.ts
+
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/UqVYZOL.png" group-title="Canais | Filmes e Series",FX HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36969.ts
+
+#EXTINF:-1 tvg-id="globo.sao.paulo.br" tvg-name="Globo SP HD [ALT]" tvg-logo="https://i.imgur.com/cc32BI7.png" group-title="Canais | Alternativos",Globo SP HD [ALT]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/51150.ts
+
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews HD" tvg-logo="https://i.imgur.com/j55Akuw.png" group-title="Canais | Noticias",GloboNews HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36917.ts
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO" tvg-logo="https://i.imgur.com/U5LrKAW.png" group-title="Canais | HBO",HBO
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/65114.ts
+
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 HD" tvg-logo="https://i.imgur.com/QTtMuR2.png" group-title="Canais | HBO",HBO 2 HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36966.ts
+
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO Family HD" tvg-logo="https://i.imgur.com/f181m4I.png" group-title="Canais | HBO",HBO Family HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36965.ts
+
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://i.imgur.com/AKrQpLY.png" group-title="Canais | HBO",HBO Plus HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36963.ts
+
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://i.imgur.com/CufUNOo.png" group-title="Canais | HBO",HBO Xtreme HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36912.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Jovem Pan News HD (A)" tvg-logo="https://i.imgur.com/wHJVTMP.png" group-title="Canais | Noticias",Jovem Pan News HD (A)
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/83443.ts
+
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix [4K]" tvg-logo="https://i.imgur.com/ysjGLm4.png" group-title="Canais | Filmes e Series",MegaPix [4K]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/61844.ts
 
 
