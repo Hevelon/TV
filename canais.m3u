@@ -35,3 +35,6 @@ https://m3u8.vg/a1x4/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=UNP6mDXvEaO1nHUpTHMu
 
 #EXTINF:-1,FX
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE CINE ACTION (720p)"  group-title="Filmes",TELE CINE ACTION (720p)
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
