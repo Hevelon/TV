@@ -14,3 +14,15 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 
 #EXTINF:-1,TNT
 https://stream.m3u8.one/tnt/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,SyFy
+https://ddh2.iosplayer.ru/tshttp/ddh2/premium373/mono.m3u8?token=none
+
+#EXTINF:-1,SBT Bahia
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+#EXTINF:-1,Rede TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1498325921.m3u8
+
+#EXTINF:-1,CombaTV Ao Vivo
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
