@@ -29,3 +29,9 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
 #EXTINF:-1,Cinemax
 https://m3u8.vg/a1x3/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=aEey3mt-H1aKPj7cMLzE4g&3U1G7qaTxrPbalZnEx=1734717260&sv=99
+
+#EXTINF:-1,A&E
+https://m3u8.vg/a1x4/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=UNP6mDXvEaO1nHUpTHMuJA&3U1G7qaTxrPbalZnEx=1734717345&sv=58
+
+#EXTINF:-1,Band
+https://m3u8.vg/a1x2/docs/band/__index.m3u8?mu3zAQc9HC3GbwJq=e8CXRWY5QPom9ITZlKmZ4Q&3U1G7qaTxrPbalZnEx=1734717428&sv=135
