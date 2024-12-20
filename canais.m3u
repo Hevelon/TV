@@ -36,5 +36,28 @@ https://m3u8.vg/a1x4/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=UNP6mDXvEaO1nHUpTHMu
 #EXTINF:-1,FX
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE CINE ACTION (720p)"  group-title="Filmes",TELE CINE ACTION (720p)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE CINE ACTION"  group-title="Filmes",TELE CINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 2 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36977.ts
+
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 3 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36976.ts
+
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 4 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36970.ts
+
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 5 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36971.ts
+
+#EXTINF:-1 tvg-name="Band Sports" tvg-id="289938" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
+https://stream1.freetv.fun/f55a849b8592c617e547012d8c1c9a611456461447e45fb8584ba1c2da4589a0.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sports",SPORTV
+http://tv.amplista.com/live/gamaliel/2019/37255.ts
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Sports",SPORTV 2
+http://tv.amplista.com/live/gamaliel/2019/36943.ts
+
+
