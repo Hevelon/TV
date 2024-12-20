@@ -1,160 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",A&E
-https://anonstream.zip/aee/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://pt.wikipedia.org/wiki/Ficheiro:AXN_Logo_2015.png#/media/Ficheiro:AXN_Logo_2015.png",AXN
-https://anonstream.zip/axn/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",Band
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir canal off ao vivo.webp",Canal Off
-https://abc.embedmax.site/canaloff/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,OFF
-https://abc.embedmax.site/cazetv1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Caze TV 1" tvg-name="OFF" tvg-logo="imgs-thumbs/assistir cazetv ao vivo.webp",Caze TV 1
-https://abc.embedmax.site/cazetv3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="imgs-thumbs/assistir cinemax ao vivo.webp",Cinemax
-https://anonstream.zip/cinemax/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="imgs-thumbs/assistir cartoon network ao vivo.webp",Cartoon Network
-ttps://anonstream.zip/cartoonnetwork/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="imgs-thumbs/assistir discovery channel ao vivo.webp",Discovery Channel
-https://abc.embedmax.site/discoverychannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Discovery Kids
-hhttps://anonstream.zip/discoverykids/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,E!
-https://abc.embedmax.site/e/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO
-https://anonstream.zip/hbo/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO 2
-https://anonstream.zip/hbo2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO Family
-https://anonstream.zip/hbofamily/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO Plus
-https://anonstream.zip/hboplus/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO Signature
-https://anonstream.zip/hbosignature/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,HBO Xtreme
-https://anonstream.zip/hboxtreme/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,FX
-https://anonstream.zip/fx/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Globo 
-https://anonstream.zip/globorj-globorio/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Globo News
-https://anonstream.zip/globonews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,JPNEWS
-https://anonstream.zip/jpnews/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Megapix
-https://anonstream.zip/megapix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,MultiShow
-https://abc.embedmax.site/multishow/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Nick Jr
-https://abc.embedmax.site/nickjr/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Paramount Mais 1
-https://abc.embedmax.site/paramountmais1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Paramount Mais 2
-https://abc.embedmax.site/paramountmais2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Paramount Mais 3
-https://abc.embedmax.site/paramountmais3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,PREMIERE1
-https://abc.embedmax.site/premiere1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,PREMIERE2
-https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,PREMIERE4
-https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Rede TV
-https://m3u8.vg/a1x3/docs/band/__index.m3u8?mu3zAQc9HC3GbwJq=dwJJMlmi1b0PPYoVaT5sGw&3U1G7qaTxrPbalZnEx=1734673547&sv=130
-
 #EXTINF:-1,SPACE
 https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Star Cannel
-https://abc.embedmax.site/starchannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Studio" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb,Studio Universal
-https://abc.embedmax.site/studiouniversal/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,SPORTV3
-https://abc.embedmax.site/sportv3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SPORTV
 https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,ESPN6
-https://abc.embedmax.site/espn6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN5
-https://abc.embedmax.site/espn5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN4
-https://abc.embedmax.site/espn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN3
-https://abc.embedmax.site/espn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN2
-https://abc.embedmax.site/espn2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ESPN1
-https://m3u8.vg/a1x2/docs/espn/__index.m3u8?mu3zAQc9HC3GbwJq=VsS07RpTrdrGt8CUF060Ig&3U1G7qaTxrPbalZnEx=1734674888&sv=21
-
 #EXTINF:-1,SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1,Telecine Premioum
-https://abc.embedmax.site/tcpremium/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Telecine Action
-https://anonmedia.eu/telecineaction/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Telecine Pipoca
-https://anonmedia.eu/telecinepipoca/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Telecine Fun
-https://abc.embedmax.site/tcfun/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Telecine Cult
-https://new.m3u8.one/telecult/index.m3u8
-
 #EXTINF:-1,Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1,Viva
-https://abc.embedmax.site/viva/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Combate
-https://anonstream.zip/combate/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Warner TV
-https://anonstream.zip/combate/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,TNT
 https://stream.m3u8.one/tnt/tracks-v1a1/mono.m3u8
