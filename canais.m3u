@@ -6,13 +6,13 @@ http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/221418.ts
 #EXTINF:-1,SPORTV
 https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,SBT
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/TGFXo3M" group-title="ABERTO",SBT" group-title="ABERTO",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Canal aberto",Record TV" group-title="ABERTO",Record TV
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/ZgsxJB6" group-title="Canal aberto",Record TV" group-title="ABERTO",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-https://imgur.com/TGFXo3M
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/TGFXo3M" group-title="ABERTO",SBT" group-title="ABERTO",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
 #EXTINF:-1,Rede TV
