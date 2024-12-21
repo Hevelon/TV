@@ -24,9 +24,6 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1498325921.m3u8
 #EXTINF:-1,CombaTV Ao Vivo
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE CINE ACTION"  group-title="Filmes",TELE CINE ACTION
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 2 Brasil
 http://tv.amplista.com/live/gamaliel/2019/36977.ts
 
@@ -51,7 +48,7 @@ http://tv.amplista.com/live/gamaliel/2019/36943.ts
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD [ALT]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",Cinemax HD [ALT]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/50669.ts
 
-#EXTINF:-1 tvg-id="e.br" tvg-name="E! H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Variedades",E! H265
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! H265" tvg-logo="https://i.imgur.com/oPzq9zc.png" group-title="Canais | Variedades",E!
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/62871.ts
 
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/UqVYZOL.png" group-title="Canais | Filmes e Series",FX HD
