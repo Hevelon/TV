@@ -9,10 +9,10 @@ https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
-#EXTINF:-1,Record
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Canal aberto",Record TV" group-title="ABERTO",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1,SBT Bahia
+https://imgur.com/TGFXo3M
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 
 #EXTINF:-1,Rede TV
