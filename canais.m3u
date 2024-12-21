@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,SPACE
-https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Space HD [L]" tvg-name="Space HD [L]" tvg-logo="https://i.imgur.com/KEn67oN.png" group-title=" Canais | Legendado",Space HD [L]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/221418.ts
 
 #EXTINF:-1,SPORTV
 https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
@@ -11,9 +11,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u
 
 #EXTINF:-1,Record
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
-#EXTINF:-1,TNT
-https://stream.m3u8.one/tnt/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,SBT Bahia
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
@@ -102,6 +99,9 @@ http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/74797.ts
 #EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT HD
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36934.ts
 
+#EXTINF:-1 tvg-id=" TNT [4K]" tvg-name="TNT [4K]" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT [4K]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/215404.ts
+
 #EXTINF:-1 tvg-id="star.br" tvg-name="Star Channel [4K]" tvg-logo="https://i.imgur.com/9HZYFXV.png" group-title="Canais | Filmes e Series",Star Channel [4K]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/67689.ts
 
@@ -113,3 +113,12 @@ http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36953.ts
 
 #EXTINF:-1 tvg-id="GLOBO SP " tvg-name="Globo SP [4K]" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo SP [4K]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/215397.ts
+
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="https://i.imgur.com/yqDhU6L.png" group-title="Canais | Filmes e Series",Studio Universal HD
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/36904.ts
+
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil [4K]" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Noticias",CNN Brasil [4K]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/74790.ts
+
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GloboNews [4K]" tvg-logo="https://i.imgur.com/j55Akuw.png" group-title="Canais | Noticias",GloboNews [4K]
+http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/74789.ts
