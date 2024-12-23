@@ -3,10 +3,6 @@
 #EXTINF:-1 tvg-id="Space HD [L]" tvg-name="Space HD [L]" tvg-logo="https://i.imgur.com/KEn67oN.png" group-title=" Canais | Legendado",Space HD [L]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/221418.ts
 
-#EXTINF:-1,SPORTV
-https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/ZgsxJB6" group-title="Canal aberto",Record TV" group-title="ABERTO",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
@@ -30,12 +26,6 @@ http://tv.amplista.com/live/gamaliel/2019/36971.ts
 
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="289938" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
 https://stream1.freetv.fun/f55a849b8592c617e547012d8c1c9a611456461447e45fb8584ba1c2da4589a0.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sports",SPORTV
-http://tv.amplista.com/live/gamaliel/2019/37255.ts
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Sports",SPORTV 2
-http://tv.amplista.com/live/gamaliel/2019/36943.ts
 
 #EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD [ALT]" tvg-logo="https://i.pinimg.com/originals/a8/2b/83/a82b8391d267db1667978dc58413a018.png" group-title="Canais | Alternativos",Cinemax HD [ALT]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/50669.ts
@@ -214,3 +204,21 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+
+
+############################################################################ CANAIS SporTV 
+
+#EXTINF:- 1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV HD 
+https://super-cdn.link/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
+https://super-cdn.link/sportv3/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sports",SPORTV
+http://tv.amplista.com/live/gamaliel/2019/37255.ts
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Sports",SPORTV 2
+http://tv.amplista.com/live/gamaliel/2019/36943.ts
