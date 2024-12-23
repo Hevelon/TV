@@ -6,17 +6,12 @@ http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/221418.ts
 #EXTINF:-1,SPORTV
 https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/TGFXo3M" group-title="ABERTO",SBT" group-title="ABERTO",SBT
-https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/ZgsxJB6" group-title="Canal aberto",Record TV" group-title="ABERTO",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://imgur.com/TGFXo3M" group-title="ABERTO",SBT" group-title="ABERTO",SBT
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
-
-#EXTINF:-1,Rede TV
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w1498325921.m3u8
 
 #EXTINF:-1,CombaTV Ao Vivo
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_480p.m3u8
@@ -134,15 +129,6 @@ https://super-cdn.link/premiereclubes/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/w2CTebZ.png" group-title="Canais | SBT",SBT HD
 https://aovivo.maissbt.com/channel_540.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/oOhk9Gg.png" group-title="Canais | SBT",SBT Guajará
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV! SP SD
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_2.m3u8
-
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV! SP HD
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
-
 #EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://imgur.com/EgKx2J1.png" group-title="Canais | ABERTO",RedeTV!
 https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
 
@@ -152,14 +138,9 @@ https://a.cdni.live/pedro1426/pedro1426/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/xtSdQsu.png" group-title="Canais | ABERTO",TV Diário FHD
 http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/548
 
-#EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia YT
-https://ythls.armelin.one/channel/UC3croy4Mmkr_CpssQihMytw.m3u8
 
 #EXTINF:-1 tvg-id="TVE" tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia HD
 http://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qoQEi7z.png" group-title="Canais | ABERTO",TVE Bahia FHD
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ak037l4.png" group-title="Canais | ABERTO",TV Gazeta HD
 https://stream1.freetv.fun/tv-gazeta-1.m3u8
@@ -178,18 +159,6 @@ https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura Brasil 
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura HD
-https://cdn2.easy.tv.br/tvcultura/index.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://imgur.com/IUhjJEM.png" group-title="Canais | ABERTO",TV Cultura Pará
-https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w144947531.m3u8
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/wKpiAOj.png" group-title="Canais | ABERTO",CATVE TV Cultura HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="Canais | ABERTO",TV Cultura RN FHD
-https://tv02.zas.media:1936/futurotv21/futurotv21/chunklist_w309642670.m3u8?ManoTV
 
 ############################################################################ Canais | REALITY
 
@@ -222,3 +191,30 @@ https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4XvPWQa.png" group-title="Canais | REALITY",Self Service SEG/SEX as 12h YT
 https://ythls.armelin.one/channel/UCCqkBCHOVqhg9N14p-nQlow.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4QWoV1Z.png" group-title="Canais | VARIEDADES",ARTE 1
+https://cdn-2.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | VARIEDADES",Film & Arts HD
+https://cdn-5.nxplay.com.br/Film_Arts_Brasil_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
+https://cdn-2.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Primeboxbrazil.png" group-title="Canais | VARIEDADES",Prime Box HD 
+http://cdn-2.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Canais | VARIEDADES",Discovery Turbo SD
+https://cdn-4.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
+https://cdn-2.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | VARIEDADES",Animal Planet HD
+https://cdn-4.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA Network HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="Canais | FILMES E SERIES",Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
