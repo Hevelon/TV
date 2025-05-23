@@ -1,5 +1,10 @@
-
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="Canais :: GLOBO REGIONAIS",GLOBO TV BAHIA HD
+http://mxlive.info:2052/max557/971120503/50293
+
+#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://painelsbo.painel.life/logo/rederecord.png" group-title=" Canais :: RECORD REGIONAIS ",RECORD BAHIA HD
+http://mxlive.info:2052/max557/971120503/50368
 
 #EXTINF:-1 tvg-id="Space HD [L]" tvg-name="Space HD [L]" tvg-logo="https://i.imgur.com/KEn67oN.png" group-title=" Canais | Legendado",Space HD [L]
 http://play.1list.vip/live/FABIOdoSANTOexp/u8r09py5nxc/221418.ts
